@@ -12,6 +12,12 @@
 
 I'm a front-end developer fascinated by programming and creative solutions, always looking for new knowledge.
 
+<div>
+  <a href="https://github.com/renanconst">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanconst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanconst&layout=compact&langs_count=16&theme=tokyonight"/>
+<div>
+
 - 💬 Ask me about technology, movies and games.
 - 🌱 I am currently studying Next.js.
 - 📫 How to reach me **lrenan1543@gmail.com**
