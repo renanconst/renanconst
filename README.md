@@ -34,6 +34,6 @@ Atualmente, lidero a [InsightBrush](https://insightbrush.com.br/), minha iniciat
 Se você tem uma ideia em mente, precisa de um site que realmente gere resultados, ou quer explorar como a automação e outras tecnologias podem impulsionar seu negócio, sinta-se à vontade para me contatar. Estou sempre aberto a novos desafios e colaborações!
 
 * **🌐 Visite a InsightBrush:** [insightbrush.com.br](https://insightbrush.com.br)
-* **✉️ Envie um e-mail:** [lrenan1543@gmail.com](mailto:lrenan1543@gmail.com) *(adicione seu e-mail)*
-* **🐙 Confira meu GitHub:** [github.com/renanconst](https://github.com/renanconst) *(Este é o seu GitHub pessoal)*
-* **🐙 GitHub da InsightBrush:** [github.com/InsightBrush](https://github.com/InsightBrush) *(Este é o GitHub da sua iniciativa, se for separado)*
+* **✉️ Envie um e-mail:** [lrenan1543@gmail.com](mailto:lrenan1543@gmail.com)
+* **🐙 Confira meu GitHub:** [github.com/renanconst](https://github.com/renanconst)
+* **🐙 GitHub da InsightBrush:** [github.com/InsightBrush](https://github.com/InsightBrush)
