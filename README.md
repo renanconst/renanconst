@@ -1,20 +1,39 @@
-# I'm Renan Const
-
-<a href="https://www.linkedin.com/in/renanconst/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://twitter.com/renanconst">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
 ## Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a front-end developer fascinated by programming and creative solutions, always in search of new knowledge.
+Olá! Sou um **desenvolvedor fullstack freelancer** com paixão por criar **soluções digitais eficazes e sem complicação**. Meu foco é transformar ideias em **sites modernos, sistemas robustos e automações inteligentes** para ajudar pequenos negócios e empreendedores a terem uma presença digital de verdade.
 
-- 💬 Ask me about technology, movies and games.
-- 💻 Technologies: Typescript, React.js, Sass, Node.js.
-- 🌱 I am currently studying Next.js.
-- 📫 How to reach me **lrenan1543@gmail.com**
+Atualmente, lidero a [InsightBrush](https://insightbrush.com.br/), minha iniciativa pessoal, onde combino design, código e estratégia para entregar excelência e resultados.
 
-![Snake animation](https://github.com/renanconst/renanconst/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 💡 Minhas Especialidades
+
+* **Desenvolvimento Web Completo:** Construção de sites institucionais, e-commerce e sistemas personalizados (dashboards, autenticação, etc.) utilizando **Next.js, React e TailwindCSS**, sempre com foco em **performance e SEO**.
+* **Automação de Processos:** Implementação de fluxos de trabalho automatizados, integração entre sistemas e otimização de tarefas com ferramentas como **n8n e APIs**, incluindo o uso de **inteligência artificial** quando aplicável.
+* **Consultoria Técnica:** Orientação e planejamento estratégico para negócios que buscam iniciar ou otimizar sua presença digital, garantindo um lançamento sólido e eficiente.
+
+---
+
+## 🧰 Minha Stack
+
+* **Frontend:** Next.js, React, TailwindCSS, TypeScript, Figma
+* **Backend:** Node.js, Express, PostgreSQL, Prisma, JWT
+* **Automação & Integrações:** n8n, REST APIs, Webhooks, e ferramentas de IA (como OpenAI/Gemini)
+* **Ferramentas & DevOps:** Git, Vercel, Netlify, Docker, Stripe, Jest, CI/CD
+
+---
+
+## ✨ Alguns dos Meus Projetos
+
+* **🔧 [AI-Chat-n8n](https://github.com/renanconst/ai-chat-n8n/):** Um chatbot de atendimento open-source construído com Next.js e n8n, demonstrando **automação de respostas** e otimização do suporte ao cliente através de **integração com APIs de IA**.
+
+---
+
+## 📞 Vamos Conversar!
+
+Se você tem uma ideia em mente, precisa de um site que realmente gere resultados, ou quer explorar como a automação e outras tecnologias podem impulsionar seu negócio, sinta-se à vontade para me contatar. Estou sempre aberto a novos desafios e colaborações!
+
+* **🌐 Visite a InsightBrush:** [insightbrush.com.br](https://insightbrush.com.br)
+* **✉️ Envie um e-mail:** [lrenan1543@gmail.com](mailto:lrenan1543@gmail.com) *(adicione seu e-mail)*
+* **🐙 Confira meu GitHub:** [github.com/renanconst](https://github.com/renanconst) *(Este é o seu GitHub pessoal)*
+* **🐙 GitHub da InsightBrush:** [github.com/InsightBrush](https://github.com/InsightBrush) *(Este é o GitHub da sua iniciativa, se for separado)*
